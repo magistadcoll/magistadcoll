@@ -1,106 +1,30 @@
-# 🏆 MAGISTADCOLL | Sports & Athletics
+# MAGISTADCOLL — Sports & Athletics
 
-### Performance. Passion. Excellence.
+**Performance. Passion. Excellence.**
 
-Welcome to **MAGISTADCOLL**, a modern sports and athletics brand dedicated to empowering athletes, inspiring active lifestyles, and delivering innovative sporting products for fitness enthusiasts and sports lovers.
+A responsive, professional white-and-blue sports retail concept website built with HTML, CSS, and JavaScript. It is suitable for GitHub Pages and requires no build tools.
 
-## 🌟 About Us
+## What’s included
+- Modern landing page and responsive navigation
+- Category cards, illustrative product catalog, and product category filters
+- Interactive demo shopping bag (no checkout)
+- Brand story and contact form demo (does not send messages)
+- Custom SVG favicon and mobile-friendly layout
 
-At **MAGISTADCOLL**, we believe that sports are more than competition — they represent dedication, determination, teamwork, and the pursuit of excellence.
+## Launch locally
+Open `index.html` in your browser. An internet connection is required for web fonts and externally hosted demo photos.
 
-Our brand focuses on sportswear, athletic footwear, fitness equipment, and sporting accessories designed to support active lifestyles and everyday performance.
+## Publish on GitHub Pages
+1. Upload `index.html` and the `assets` folder to your repository root.
+2. In GitHub, go to **Settings > Pages**.
+3. Select **Deploy from a branch**, `main`, `/ (root)`, then save.
+4. GitHub Pages will provide the public URL after deployment.
 
-Whether you are a professional athlete, a fitness enthusiast, or someone beginning a new athletic journey, MAGISTADCOLL aims to provide products that combine comfort, functionality, and modern style.
+## Customize before commercial use
+- Replace demo product names, descriptions, prices, and photographs in `assets/app.js`.
+- Replace external photo URLs with images you have permission to use.
+- Connect a real cart/checkout service if you intend to take orders.
+- Connect the contact form to a backend/form provider and add your verified email, policies, and company details.
+- Test the site on your devices before launch.
 
-## ⚽ Our Products & Services
-
-- 👟 **Athletic Footwear** — Running shoes, training sneakers, and performance footwear.
-- 👕 **Sportswear & Apparel** — Athletic clothing, training outfits, and activewear.
-- 🏋️ **Fitness Equipment** — Workout accessories, strength training products, and exercise essentials.
-- 🏀 **Sports Equipment** — Equipment and accessories for basketball, football, soccer, and other sports.
-- 🚴 **Outdoor Sports** — Products for outdoor activities, cycling, and active adventures.
-- 🎒 **Sports Accessories** — Gym bags, water bottles, fitness accessories, and everyday athletic essentials.
-
-## 🎯 Our Mission
-
-To inspire individuals to achieve their athletic goals by offering accessible, functional, and stylish sports products that encourage movement, confidence, and personal growth.
-
-## 🔭 Our Vision
-
-To become a recognized and trusted sports brand known for innovation, athletic inspiration, customer satisfaction, and a commitment to active lifestyles.
-
-## 💎 Why Choose MAGISTADCOLL?
-
-- ✅ Modern and functional sports products
-- ✅ Athletic-inspired designs
-- ✅ A wide selection of sporting essentials
-- ✅ Products for different fitness levels
-- ✅ Customer-focused shopping experiences
-- ✅ Passion for sports and physical wellness
-- ✅ Commitment to performance and style
-
-## 🛍️ Our Collections
-
-### 👟 Performance Footwear
-
-Discover athletic footwear designed for training, running, and everyday activities.
-
-### 👕 Activewear Collection
-
-Explore comfortable and modern sportswear for workouts, fitness routines, and active lifestyles.
-
-### 🏋️ Fitness Essentials
-
-Find training equipment and accessories for home workouts, gym sessions, and physical conditioning.
-
-### ⚽ Sports Gear
-
-Explore sporting products and accessories for your favorite athletic activities.
-
-### 🚴 Outdoor Adventures
-
-Discover essentials for outdoor sports, recreation, and active exploration.
-
-## 🌐 Our Website
-
-The official **MAGISTADCOLL** website project is designed to showcase our sports collections, athletic products, and fitness essentials through a modern and professional digital experience.
-
-### Website Features
-
-- Professional and responsive homepage
-- Modern sports-inspired design
-- Product galleries and collections
-- Product descriptions and pricing
-- Sportswear and footwear categories
-- About Us section
-- Contact information
-- Mobile-friendly navigation
-- User-friendly shopping interface
-
-## 💻 Technologies
-
-Our website project is built using:
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
-- GitHub Pages
-
-## 📩 Contact Us
-
-For product inquiries, business collaborations, partnerships, and general information, please contact MAGISTADCOLL through our official communication channels.
-
-## ❤️ Our Philosophy
-
-We believe that every athlete has the potential to achieve greatness.
-
-Through passion, dedication, and continuous improvement, we aim to inspire people to push their limits and embrace an active lifestyle.
-
-**Train Hard. Stay Strong. Achieve More.**
-
----
-
-© 2026 MAGISTADCOLL. All Rights Reserved.
-
-**MAGISTADCOLL — Performance. Passion. Excellence.**
+**Note:** All products and prices are illustrative. No order, payment, or contact request is processed by this static demo. MAGISTADCOLL brand content is a proposed concept, not a claim of an operating storefront.
